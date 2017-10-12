@@ -1,0 +1,2 @@
+type memsicp_exec , exec_type, file_type;
+type memsicp ,domain;
