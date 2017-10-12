@@ -8,10 +8,10 @@ $(call inherit-product, device/asus/ZC500TG/device.mk)
 ## Device identifier. This must come after all inclusions
 PRODUCT_RELEASE_NAME := ASUS Zenfone Go 
 PRODUCT_BRAND := asus
-PRODUCT_DEVICE := ASUS_ZC500TG
+PRODUCT_DEVICE := ZC500TG
 PRODUCT_MANUFACTURER := Asus
-PRODUCT_MODEL := ASUS_ZC500TG
-PRODUCT_NAME := full_ZC500TG
+PRODUCT_MODEL := ZC500TG
+PRODUCT_NAME := lineage_ZC500TG
 
 # Boot animation 
 TARGET_SCREEN_HEIGHT := 1280

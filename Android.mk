@@ -1,6 +1,6 @@
 LOCAL_PATH:= $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),ZC500Tg)
+ifeq ($(TARGET_DEVICE),ZC500TG)
 
 include $(call first-makefiles-under,$(LOCAL_PATH))
 
